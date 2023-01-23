@@ -10,4 +10,5 @@ def test_func1():
 def test_func2():
     assert 1 !=1
 
-
+if __name__ == '__main__':
+    test_func1;
